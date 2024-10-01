@@ -11,7 +11,7 @@ namespace LEmonPickle
 
             Console.WriteLine("Welcome to the Lemon Pickle Store!");
             Console.WriteLine("1. Sweet Lemon Pickle");
-            Console.WriteLine("2. Spicy Lemon Pickle");
+            Console.WriteLine("2. Spicy Lemon Pickle"); ;
             Console.WriteLine("3. Sweet and Spicy Lemon Pickle");
             Console.WriteLine("Please enter the corresponding number to place your order (or press 0 to exit):");
 
